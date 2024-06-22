@@ -15,7 +15,7 @@ I am a university student with a growing interest in cybersecurity, focusing on 
 
 ### 📊 Stats
 
-![0b1111001's GitHub stats](https://github-readme-stats.vercel.app/api?username=0b1111001t&show_icons=true&theme=gruvbox)
+![0b1111001's GitHub stats](https://github-readme-stats.vercel.app/api?username=0b1111001&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
