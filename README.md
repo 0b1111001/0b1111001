@@ -1,5 +1,24 @@
 <!-- ## Hi there 👋 -->
 # 🕺0b1111001
+
+
+I am a university student with a growing interest in cybersecurity, focusing on Capture the Flag (CTF) challenges and solving problems on Codeforces. Recently, I've been diving into these areas, honing my skills and expanding my knowledge. My journey involves learning about the fundamentals of cybersecurity and coding, exploring new challenges, and tackling problems head-on. I'm committed to expanding my knowledge and skills in cybersecurity, one challenge at a time.
+
+### 🤩 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />b" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### 📊 Stats
+
+![0b1111001's GitHub stats](https://github-readme-stats.vercel.app/api?username=0b1111001t&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
 <!--
 **0b1111001/0b1111001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
